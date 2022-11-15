@@ -1,0 +1,39 @@
+
+
+/*  
+
+SELETORES  
+
+PRIMEIRO SELETOR É O ASTERISTICO COM ELE PODEMOS SELECIONAR A PAGINA TODA DE UMA VEZ .
+*{ 
+    SÓ COLOCAR DENTRO DO PARENTES O QUE DESEJAR.
+}
+
+OUTRO SELETOR É A TAG---- id esse comando só pode ser usado uma vez por pagina Ex:
+
+
+-  { <h1 id="titulo">Minha prineira aula de CSS</h1> 
+
+       <h1 id="titulo">Minha prineira aula de CSS</h1>}   errado nome repetido da id
+
+       <h1 id="titulo-o2">Minha prineira aula de CSS</h1> correto nome da id diferente
+       
+
+
+para chamar o id no css é necessario colocar a # e o nome da id ex:
+
+#titulo ou titulo-02{
+dentro do parenteses podemos colocar os estilos que queremos.
+
+}
+
+
+Já a tag class pode usar nomes repetidos, para chamar esse comando é necessario digitar .e o nome da classe.
+
+podemos tambem selecionar varios itens por ex:
+
+.texto, .botão, #titulo, p, { e dentro do parenteses colocamos os estilos que queremos. 
+
+}
+
+*/

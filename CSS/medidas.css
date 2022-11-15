@@ -1,0 +1,39 @@
+
+
+
+/*
+MEDIDAS 
+
+A media (EM) é sempre relativa ao pai, mas quando acrescentado mais um elemento ele pega o elemento do topo como o html ou body.
+O Rem vai buscar sempre no elemento mais ruth ou mais acima html ou body.
+vw e vh são relativos a tela e não ao pai como no caso da porcentegem.
+
+medidas absolutas 
+px(pixel)
+
+% calcula o tamanho relativo ao elemento pai EX: */
+
+
+.vô{
+font-size: 16px;
+
+
+}
+
+.pai {
+    height: 50vw;
+    width: 50vw;
+     background: #640f04;
+    color: beige;
+    font-size: 2em;
+    }
+
+
+
+.filho{
+height: 50% ;
+width: 50%;
+background: rgb(11, 58, 212);
+color: beige;
+font-size: 2em;
+}

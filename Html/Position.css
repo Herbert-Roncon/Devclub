@@ -1,0 +1,18 @@
+
+
+/*  POSITION 
+
+POSITION STATIC(Padrão) Não aceita valores de top, bottom, right e left.
+
+Position fixed - fixa o elemento na tela 
+position sticky- age com o um adesivo, fixa o elemento só onde eu determinar.
+Position relative- posicão relatia a posição inicial dele.
+position absolute- posição absoluta(fixa) a algum elemento ou pagina.
+ se não tiver pai/ ou o pai for static, posiciona referente a pagina.
+ se o pai não for static, posiciona referente ao pai.
+
+
+ propriedades  top / bottom / right / left.
+
+
+*/

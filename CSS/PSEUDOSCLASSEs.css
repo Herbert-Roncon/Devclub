@@ -1,0 +1,39 @@
+
+
+/* 
+
+:active- quando o elemento esta ativo, ou seja sendo pressionado.
+ 
+:visited- seleciona o link que foi visitado.
+
+:hover-quando o mouse passa por cima do elemento.
+
+:checked- usado em radio/ checkbox/ select.
+
+:disabled-elemento desabilitado/ input/button.
+
+:enabled- elemento  esta habilitado.
+
+:focus- é aplicado quando um elemento recebe foco.
+
+ :read-only- seleciona input, textarea que são apenas para leitura.
+
+ :empty- Elemento que não tem filho.
+
+ :first-child- primeiro filho/ ex: primeito li de uma ul/ primeiro span de uma div.
+
+ :first-of-type- primeiro elemento de seu tipo, entre os filhos de seu elemento pai.
+
+ :last-child-  Último filho.
+
+:last-of-type-  último elemento de seu tipo entre os filhos de seu elemento pai.
+
+:not()- estiliza os elementos exeto o que esta dentro dos ().
+
+:nth-child()- Seleciona o elemento baseado na sua posição. ex: nth-child(3)
+
+:nth-last-child()- Seleciona o elemento baseado na sua posição , contando de tras para frente.
+
+
+
+*/
